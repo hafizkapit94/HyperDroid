@@ -1,3 +1,4 @@
+![1000067851](https://github.com/user-attachments/assets/fdb282cb-d481-4b35-a82b-9b77b5287755)
 # Privacy Policy
 
 **HyperDroid - PC Launcher** is a free app developed by Vivek Verma at no cost and is intended for use as is.
@@ -61,3 +62,4 @@ This policy is effective as of 2024-05-26
 **Contact Us**
 
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at binary.metaverse@gmail.com.
+mobilelegend:godmode:
