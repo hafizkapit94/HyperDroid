@@ -1,4 +1,4 @@
-# Privacy Policy
+# Privacy Policy Android 
 
 **HyperDroid - PC Launcher** is a free app developed by Vivek Verma at no cost and is intended for use as is.
 
